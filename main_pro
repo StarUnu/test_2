@@ -1,0 +1,9 @@
+#include<iostream>
+using namespace std;
+int main(){
+  int number , colocar;
+  cin>> number ;
+  colocar = number + 12;
+  cout>>colocar;
+  return 0;
+  }
